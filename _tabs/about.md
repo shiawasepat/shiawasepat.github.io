@@ -2,14 +2,13 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
-
 ---
 
-**About Me**
+# About Me
 
-Hello, and welcome to my website! My name is [Your Name], and I'm an Informatics student passionate about technology, creativity, and storytelling. I'm currently exploring the world of video production and portfolio building, using my technical and artistic skills to bring ideas to life.
+Hello, and welcome to my website! My name is Patrick Shiawase Aruji, and I'm an Informatics student passionate about technology, creativity, and storytelling. I'm currently exploring the world of video production and portfolio building, using my technical and artistic skills to bring ideas to life.
 
-**What I Do**
+## What I Do
 
 - **Video Production**: I specialize in creating engaging and visually compelling video content, showcasing stories, ideas, and concepts.
 - **Web Development**: As part of my journey in Informatics, I design and build websites that are both functional and aesthetically pleasing.
