@@ -4,7 +4,8 @@ layout: post
 date: 2025-01-16
 # image:
 #     path:
-
+description: My first post!
+pin: true
 ---
 
 Welcome to my first post!
