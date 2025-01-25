@@ -4,7 +4,7 @@ layout: post
 date: 2025-01-21
 description: An alphabetic triangle pyramid
 image:
-    path: /
+    path: /assets/images/Triangle Assembly.png
 ---
 
 
