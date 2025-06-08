@@ -55,6 +55,3 @@ If you're a visual learner (or just like scribbles), here's the same problem bro
 
 ---
 
-Feel free to try more examples or explore how this applies to real-world physics like motion, acceleration, or even optimization in economics!
-
-Let me know if you’d like to do a deeper analysis of derivatives or related topics.
