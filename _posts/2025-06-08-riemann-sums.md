@@ -1,10 +1,10 @@
 ---
 title: Riemann Sum
 layout: post
-date: 2025-03-10
+date: 2025-06-08
 # image:
 #     path: /assets/images/Welcome.png
-tags: Integral, Riemann
+tags: Riemann
 description: What is a Riemann Sum?
 math: true
 ---
